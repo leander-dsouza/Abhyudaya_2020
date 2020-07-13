@@ -1,4 +1,4 @@
-## Airline Iternary
+# Airline Iternary
 
 Given to you is a list of airline tickets represented in the form of pairs of departure and arrival airports [from,to] .Your task is to reconstruct the itinerary in order such that it must begin with ‘MSC’. All of the tickets belong to a man boarding from the airport with IATA code ‘MSC’.
 
