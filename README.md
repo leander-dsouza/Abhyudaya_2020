@@ -1,7 +1,7 @@
 # Abhyudaya_2020
 
 Abhyudaya is an event hosted by the Microsoft Student Chapter and is an amalgamation of coding, cryptography, gaming and trading of resources.
-We belonged to Team America and stood at Rank 11.
+We belonged to Team America and stood at Rank **.
 
 ## HackerRank Coding Event
 
